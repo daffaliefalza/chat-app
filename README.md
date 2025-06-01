@@ -1,23 +1,17 @@
-<h1 align="center">Redis Chat App ⚡</h1>
+<h1 align="center">Redis Chat App </h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+-  Tech Stack: Next.js, TypeScript, Tailwind CSS, `UPSTASH` Redis
+-  Authentication
+-  Real-Time Messaging
+-  Responsive UI
+-  Light and Dark Mode
+-  Notification Sounds
+-  Typing Effects
+-  Image Uploads
+-  Integration with Upstash Redis for Scalable Chat
 
-About This Course:
 
-- ⚛️ Tech Stack: Next.js 14, TypeScript, Tailwind CSS, `UPSTASH` Redis
-- 🔐 Authentication
-- 💬 Real-Time Messaging
-- 📱 Responsive UI
-- 🌗 Light and Dark Mode
-- 🔔 Notification Sounds
-- ⌨️ Satisfying Typing Effects
-- 📊 Learn About Redis Data Types
-- 📷 Image Uploads
-- 🛠️ Integration with Upstash Redis for Scalable Chat
-- 💙 Awesome Landing Page
-- 🌐 Deployment
-- 🚀 And Many More Cool Features
-- ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+
 
 ### Setup .env file
 
