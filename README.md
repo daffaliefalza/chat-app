@@ -1,4 +1,4 @@
-<h1 align="center">Redis Chat App </h1>
+<h1>Chat App </h1>
 
 -  Tech Stack: Next.js, TypeScript, Tailwind CSS, `UPSTASH` Redis
 -  Authentication
